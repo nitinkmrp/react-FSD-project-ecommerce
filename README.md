@@ -1,7 +1,5 @@
 # Maltimart Ecommerce
 
-## 📌 Live Demo
-https://multimart-ecommerce.onrender.com
 
 ## 😎 Features
 
@@ -18,10 +16,6 @@ https://multimart-ecommerce.onrender.com
 - react-dom-router
 - react-bootstrap
 - state management using Redux Toolkit
-
-## How can you clone and tweak this project?
-
-From your command line, first clone this repo:
 
 
 
